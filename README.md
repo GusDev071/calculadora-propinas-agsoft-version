@@ -27,7 +27,7 @@
 <p align="center">
   <picture>
     <img
-      src="https://raw.githubusercontent.com/florencio123/Calculadora-de-propinas/main/.github/preview.png"
+      src="public/img/Captura de pantalla 2026-07-25 203355.png"
       alt="Vista previa"
       width="720"
       onerror="this.style.display='none'"
