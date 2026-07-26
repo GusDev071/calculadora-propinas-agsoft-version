@@ -126,3 +126,4 @@ Abre [http://localhost:5173](http://localhost:5173) en tu navegador.
 ## &#x1F4DD; Licencia
 
 MIT — Creado con &#x1F49A; para aprender React + TypeScript.
+# calculadora-propinas-agsoft-version
